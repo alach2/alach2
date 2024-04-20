@@ -2,10 +2,13 @@
 
 I am a Sophomore Undergraduate student at the University of San Francisco studying Computer Science. <br />
 
-📫 How to reach me: alach@dons.usfca.edu<br />
-😄 Connect with me: https://www.linkedin.com/in/amelia-lach/<br />
-⚡ Fun fact: My first language was Polish. I taught myself English when I was 6-7 years old by flipping through a dictionary and watching PBS kids. 
+<ul>
+<li>📫 How to reach me: alach@dons.usfca.edu<br /> </li>
+<li>😄 Connect with me: https://www.linkedin.com/in/amelia-lach/<br /> </li>
+<li>⚡ Fun fact: My first language was Polish. I taught myself English when I was 6-7 years old by flipping through a dictionary and watching PBS kids. </li>
+</ul>
 
+Here are some of the coding languages I know
 <!--
 **alach2/alach2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
