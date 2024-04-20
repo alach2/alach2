@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Amelia Lach
+
+I am a Sophomore Undergraduate student at the University of San Francisco studying Computer Science. <br />
+
+📫 How to reach me: alach@dons.usfca.edu<br />
+😄 Connect with me: https://www.linkedin.com/in/amelia-lach/<br />
+⚡ Fun fact: My first language was Polish. I taught myself English when I was 6-7 years old by flipping through a dictionary and watching PBS kids. 
 
 <!--
 **alach2/alach2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
