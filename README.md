@@ -8,7 +8,18 @@ I am a Sophomore Undergraduate student at the University of San Francisco studyi
 <li>⚡ Fun fact: My first language was Polish. I taught myself English when I was 6-7 years old by flipping through a dictionary and watching PBS kids. </li>
 </ul>
 
-Here are some of the coding languages I know
+Here are some of the coding languages I know:
+<ul>
+🟢 Java<br />
+🟢 Python<br />
+🟢 Go<br />
+🟢 C/C++<br />
+🟢 JavaScript<br />
+🟢 HTML/CSS<br />
+🟢 SQL<br />
+🟢 TypeScript<br />
+</ul>
+
 <!--
 **alach2/alach2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
