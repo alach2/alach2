@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Amelia Lach
 
-I am a Sophomore Undergraduate student at the University of San Francisco studying Computer Science. <br />
+I am a Junior Undergraduate student at the University of San Francisco studying Computer Science. <br />
 
 <ul>
 <li>📫 How to reach me: alach@dons.usfca.edu<br /> </li>
